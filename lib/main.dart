@@ -9,7 +9,6 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.red,
         brightness: Brightness.dark,
       ),
       home: Scaffold(
